@@ -1,0 +1,1 @@
+This is a library for using Maxstream XBee modules with the XBee platform, using API.
